@@ -7,7 +7,7 @@ A React Native app (Expo) that lists SpaceX launches and shows launchpad locatio
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/tripare.git
+   git clone https://github.com/vishu-jain/Tripare.git
    cd tripare
    ```
 
