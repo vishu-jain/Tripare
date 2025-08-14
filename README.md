@@ -52,9 +52,15 @@ A React Native app (Expo) that lists SpaceX launches and shows launchpad locatio
 
 ## App Screenshots
 
-| Launch List                           | Launchpad Details & Map                       |
-| ------------------------------------- | --------------------------------------------- | ---------------------- |
-| ![Launch List](assets/SpaceXlist.png) | ![Launchpad Map](assets/launchpadDetails.png) | ![Map](assets/map.png) |
+| Launch List                         
+| ![Launch List](assets/SpaceXlist.png) 
+
+| Launchpad Details
+
+![Launchpad Map](assets/launchpadDetails.png) 
+
+| Map  
+| ![Map](assets/map.png) 
 
 ---
 
